@@ -1,5 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3otOKv1Z6WUpYwHHwI/giphy.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/sr8jYZVVsCmxddga8w/giphy.gif?cid=ecf05e47i1xxql6jw4j1c1uoh9bfyvydeyfyk6v3pk3w9u3y&rid=giphy.gif&ct=g" width="100"/>
+  <!-- 
+  https://twitter.com/SpaceCatPics/status/1153654129224507392
+  https://media.giphy.com/media/3otOKv1Z6WUpYwHHwI/giphy.gif
+<iframe src="https://giphy.com/embed/sr8jYZVVsCmxddga8w" width="474" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sr8jYZVVsCmxddga8w">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JIX9t2j0ZTN9S">via GIPHY</a></p>
+  <iframe src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">via GIPHY</a></p>
+  -->
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/artemskharlamov/">
