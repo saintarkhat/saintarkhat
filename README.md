@@ -34,7 +34,7 @@ I am a Data Analyst <img src="https://media0.giphy.com/media/gRYTjQAs04Pfydymgc/
 
 - :zap: 
 
-- :mailbox:
+- :mailbox: rtmkharlamov@gmail.com
 
 <div id="header" align="center">
   <h1>
