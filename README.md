@@ -30,9 +30,9 @@ I am a Data Analyst <img src="https://media0.giphy.com/media/gRYTjQAs04Pfydymgc/
 
 - :telescope:
 
-- :seedling: 
+- :seedling: Learning C++, Golang, ML & DL.
 
-- :zap: 
+- :zap: working with python, pandas, sklearn, sql in game industry
 
 - :mailbox: rtmkharlamov@gmail.com
 
