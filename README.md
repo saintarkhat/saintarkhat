@@ -20,11 +20,9 @@
 </h1>
 </div>
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif?cid=ecf05e475eef9u2f8kfg802yonjnv01oxv5uxfbmr8550dbm&rid=giphy.gif&ct=s" width="200" />
-</div> 
+
  
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 I am a Data Analyst <img src="https://media0.giphy.com/media/gRYTjQAs04Pfydymgc/giphy.gif?cid=ecf05e47ogz8veow399t613is4sjdg52ivu6dxsbugppy0l3&rid=giphy.gif&ct=s" width="30"> from Russia,  based in Cyprus.
 
