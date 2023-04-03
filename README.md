@@ -24,7 +24,7 @@
  
 ### :man_technologist: About Me :
 
-I am a Data Analyst <img src="https://media0.giphy.com/media/gRYTjQAs04Pfydymgc/giphy.gif?cid=ecf05e47ogz8veow399t613is4sjdg52ivu6dxsbugppy0l3&rid=giphy.gif&ct=s" width="30"> from Russia,  based in Cyprus.
+I am a Data Analyst <img src="https://media0.giphy.com/media/gRYTjQAs04Pfydymgc/giphy.gif?cid=ecf05e47ogz8veow399t613is4sjdg52ivu6dxsbugppy0l3&rid=giphy.gif&ct=s" width="30"> based in Cyprus.
 
 - :telescope:
 
