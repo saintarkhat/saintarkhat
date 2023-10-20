@@ -42,3 +42,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 </div>
+
+<div id="header" align="center">
+  <h1>
+  Statistics
+</div>
+    
+![Your name's GitHub stats](https://github-readme-stats.vercel.app/api?username=saintarkhat&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saintarkhat&layout=compact&theme=radical)
+
