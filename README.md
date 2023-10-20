@@ -21,7 +21,7 @@
  
 ### :man_technologist: About Me :
 
-I am a Data Analyst based in Cyprus.
+- :high_brightness: I am a Data Analyst based in Cyprus.
 
 - :page_with_curl: You can read about my experience in my <a href="https://docs.google.com/document/d/1vZNkEZGukUS27WgZzMv2rMLggt24-Ha3gcPX7U9UezM/edit?usp=sharing">CV</a>
 
