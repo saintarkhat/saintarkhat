@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3otOKv1Z6WUpYwHHwI/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/8JCOK5E58CPxGfVJry/giphy.gif" width="100"/>
  
 </div>
 <div id="badges" align="center">
@@ -21,11 +21,11 @@
  
 ### :man_technologist: About Me :
 
-I am a Data Analyst <img src="https://media0.giphy.com/media/gRYTjQAs04Pfydymgc/giphy.gif?cid=ecf05e47ogz8veow399t613is4sjdg52ivu6dxsbugppy0l3&rid=giphy.gif&ct=s" width="30"> based in Cyprus.
+I am a Data Analyst based in Cyprus.
 
-- :telescope:
+- :page_with_curl: You can read about my experience in my <a href="https://docs.google.com/document/d/1vZNkEZGukUS27WgZzMv2rMLggt24-Ha3gcPX7U9UezM/edit?usp=sharing">CV</a>
 
-- :seedling: Learning C++, Golang, ML & DL.
+- :seedling: Learning C++, Golang, ML & DL. Studying AI and special generative models :art:
 
 - :zap: working with python, pandas, sklearn, sql in game industry
 
