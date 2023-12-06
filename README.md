@@ -1,52 +1,29 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/8JCOK5E58CPxGfVJry/giphy.gif" width="100"/>
+## ABOUT ME
+🌟 Data Analyst Based in Cyprus: With a rich 4-year journey in data analysis, I have developed a keen expertise in extracting actionable insights from complex data. My professional path has led me through the intricacies of financial data analysis and now into the vibrant world of the gaming industry.
+
+📄 Check Out My CV: Dive deeper into my professional journey by exploring my <a href="https://docs.google.com/document/d/1vZNkEZGukUS27WgZzMv2rMLggt24-Ha3gcPX7U9UezM/edit?usp=sharing">CV</a>.
+
+🚀 Current Role in Gaming Industry: I'm currently engaged in game data analysis, leveraging python, pandas, sklearn, and SQL to develop predictive models and optimize game mechanics.
+
+📚 Expanding My Horizons: I'm on a continuous learning path, diving into C++, Golang, Machine Learning & Deep Learning. My academic pursuits in AI, especially in special generative models, keep me at the forefront of innovation.
+
+<a href="https://www.kaggle.com/artemkharlamov"><img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Kaggle Badge"/></a> <a href="https://www.linkedin.com/in/artemskharlamov/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://t.me/artikha"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
  
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/artemskharlamov/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/artikha">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <p>
-  <img src="https://komarev.com/ghpvc/?username=saintarkhat&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
+## HARD SKILLS
 
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
- 
-### :man_technologist: About Me :
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-- :high_brightness: I am a Data Analyst based in Cyprus.
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Clickhouse](https://img.shields.io/badge/ClickHouse-%23F7931E.svg?style=for-the-badge&logo=ClickHouse&logoColor=yellow) 
 
-- :page_with_curl: You can read about my experience in my <a href="https://docs.google.com/document/d/1vZNkEZGukUS27WgZzMv2rMLggt24-Ha3gcPX7U9UezM/edit?usp=sharing">CV</a>
+## PROJECTS
+Dataset | Category | About | Link |
+--- | --- | --- | --- |
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | анализируем два плейлиста "нравится" - "не нравится" | Link |
+![League%20of%20Legends](https://img.shields.io/badge/League%20of%20Legends-C28F2C?style=for-the-badge&logo=leagueoflegends&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) | рекомендуем кого забанить из персонажей | Link |
 
-- :seedling: Learning C++, Golang, ML & DL. Studying AI and special generative models :art:
-
-- :zap: working with python, pandas, sklearn, sql in game industry
-
-- :mailbox: rtmkharlamov@gmail.com
-
-<div id="header" align="center">
-  <h1>
-  Language and Tools 
-</div>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-</div>
-
-<div id="header" align="center">
-  <h1>
-  Statistics
-</div>
+## STATISTICS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saintarkhat&layout=compact&theme=radical)
 
