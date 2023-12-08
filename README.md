@@ -18,10 +18,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Clickhouse](https://img.shields.io/badge/ClickHouse-%23F7931E.svg?style=for-the-badge&logo=ClickHouse&logoColor=yellow) 
 
 ## PROJECTS
-Dataset | Category | About | Link |
---- | --- | --- | --- |
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | анализируем два плейлиста "нравится" - "не нравится" | Link |
-![League%20of%20Legends](https://img.shields.io/badge/League%20of%20Legends-C28F2C?style=for-the-badge&logo=leagueoflegends&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) | рекомендуем кого забанить из персонажей | Link |
+Dataset | Category | About | Status | Link |
+--- | --- | --- | --- | --- |
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | This project is dedicated to analyzing songs I like and dislike, detailing their characteristics and identifying the differences between them. | ![Not Started](https://img.shields.io/badge/not%20started-808080) | Link |
+![League%20of%20Legends](https://img.shields.io/badge/League%20of%20Legends-C28F2C?style=for-the-badge&logo=leagueoflegends&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) | This project focuses on analyzing character picks and bans in League of Legends matches to develop a recommendation system for character bans | ![Not Started](https://img.shields.io/badge/not%20started-808080) | Link |
+![Boarder Game](https://img.shields.io/badge/Boarder%20Game-blue?style=for-the-badge&logo) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Algorithms](https://img.shields.io/badge/Algorithms-black?style=for-the-badge) | This project involves parsing game participants and then strategically seating them according to specific rules | ![Not Started](https://img.shields.io/badge/not%20started-808080) | Link |
 
 ## STATISTICS
 
