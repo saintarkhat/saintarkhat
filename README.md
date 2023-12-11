@@ -7,7 +7,7 @@
 
 📚 Expanding My Horizons: I'm on a continuous learning path, diving into C++, Golang, Machine Learning & Deep Learning. My academic pursuits in AI, especially in special generative models, keep me at the forefront of innovation.
 
-<a href="https://www.kaggle.com/artemkharlamov"><img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Kaggle Badge"/></a> <a href="https://www.linkedin.com/in/artemskharlamov/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://t.me/artikha"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+<a href="https://www.kaggle.com/artemkharlamov"><img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/></a> <a href="https://www.linkedin.com/in/artemskharlamov/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://t.me/artikha"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
  
 ## HARD SKILLS
 
